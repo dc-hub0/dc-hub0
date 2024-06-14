@@ -98,6 +98,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Dev Quote" />
 </p>
 
-
-### 🎨 Holopin Badges:
-[![@dc-hub0's Holopin board](https://holopin.me/dc-hub0)](https://holopin.io/@dc-hub0)
