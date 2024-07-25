@@ -98,3 +98,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Dev Quote" />
 </p>
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
