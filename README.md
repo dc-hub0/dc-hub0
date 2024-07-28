@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, React.js**
 - 📫 How to reach me **deepakcchauhan07@gmail.com**
-- ⚡ Fun fact **Your heart can continue beating even when separated from your body. This is because it has its own electrical system**
+- ⚡ Fun fact **Your heart can continue beating even when separated from your body. This is because it has its own electrical system.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
